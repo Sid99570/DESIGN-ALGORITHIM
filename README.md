@@ -1,2 +1,2 @@
-# DESIGN-ALGORITHIM
-BOUNCE OFF
+# p5.play-boilerplate
+Boiler plate for p5.play
